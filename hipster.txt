@@ -1,2 +1,6 @@
 This is a hipster ipsum file.
 For learning and understanding git.
+
+Adding this line of code.
+
+This line of text is to be removed in the future.
