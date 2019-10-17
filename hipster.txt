@@ -1,4 +1,0 @@
-This is a hipster ipsum file.
-For learning and understanding git.
-
-Adding this line of text.
