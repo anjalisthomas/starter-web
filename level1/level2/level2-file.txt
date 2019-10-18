@@ -1,2 +1,0 @@
-This is the level 2 file.
-Named level2-file.txt
