@@ -1,2 +1,1 @@
-This is a level1 file.
-Named level1-file.txt
+This is a level 1 file.
