@@ -9,3 +9,7 @@ This is an example to show different parts of the Git repository
 ## Purpose
 
 This is an example.
+
+## Deployment
+
+This is a simple web project.
