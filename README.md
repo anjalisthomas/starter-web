@@ -19,3 +19,5 @@ This is a simple web project.
 This is closed.
 
 ## How To Contribute
+
+## Copyright
