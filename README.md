@@ -28,3 +28,4 @@ This is closed.
 
 This is a high priority task that required us to stash the work that was in progress.
 
+Multiple stashes
